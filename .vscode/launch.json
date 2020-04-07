@@ -13,8 +13,8 @@
             ],
             "program": "${workspaceFolder}/intro_to_node/buggy-script.js",
             "args": [
-                "./project-outline.txt",
-                "./my-project"
+                "source.txt",
+                "intro_to_node"
             ] /* put the arguments here in separate string elements! */
         }
     ]
